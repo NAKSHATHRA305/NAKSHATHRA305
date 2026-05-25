@@ -28,8 +28,6 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NAKSHATHRA305&theme=tokyonight&show_icons=true&hide_border=true" height="170"/>
 
@@ -39,7 +37,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NAKSHATHRA305&theme=tokyonight&hide_border=true"/>
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=NAKSHATHRA305&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
